@@ -1,0 +1,12 @@
+@import "mixins";
+@import "fonts";
+@import "vendor";
+@import "vars";
+@import "settings";
+
+body {
+  background-image: url("../assets/img/images.png");
+  // background-size: cover;
+  background-color: rgb(134, 36, 36);
+	color: white;
+}
